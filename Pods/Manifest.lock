@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (5.3.0)
+  - Hero (1.5.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ReachabilitySwift (4.3.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxReachability (1.0.0):
+    - ReachabilitySwift (~> 4.3.1)
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Hero
+  - Moya (~> 14.0)
+  - ReachabilitySwift
+  - RxCocoa
+  - RxReachability
+  - RxSwift
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Hero
+    - Moya
+    - ReachabilitySwift
+    - RxCocoa
+    - RxReachability
+    - RxRelay
+    - RxSwift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxReachability: 21d3e96f39bc166a21c357e923f47dec148ca97b
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: c47dc9c0e098e0ed549cb918fb2f88930922ca59
+
+COCOAPODS: 1.9.3
